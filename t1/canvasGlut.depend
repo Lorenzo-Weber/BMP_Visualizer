@@ -1,0 +1,284 @@
+# depslib dependency file v1.0
+1710341357 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"Bola.h"
+	"Relogio.h"
+	"Botao.h"
+
+1632060799 d:\ufsm\disciplinas\computacao grafica\demos\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 d:\ufsm\disciplinas\computacao grafica\demos\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 d:\ufsm\disciplinas\computacao grafica\demos\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1710341387 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1589217858 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\vector2.h
+
+1589214882 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\bola.h
+	"gl_canvas2d.h"
+
+1193164156 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1589214891 d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+
+1705326017 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1589218349 source:d:\ufsm\disciplinas\computacao grafica\demos\gl_1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1589218349 source:c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1193164156 c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1710341387 c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1632060799 c:\users\loren\desktop\programação\c\demos\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 c:\users\loren\desktop\programação\c\demos\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 c:\users\loren\desktop\programação\c\demos\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\vector2.h
+
+1711476572 source:c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1712624833 source:c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<iostream>
+	<fstream>
+	<string>
+	"gl_canvas2d.h"
+	"slideBarManager.h"
+	"imgManager.h"
+	"BotaoManager.h"
+
+1531759698 c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1712263219 c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+	"img.h"
+	<functional>
+
+1711568072 source:c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1711570065 source:c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\img.cpp
+	"img.h"
+	"bmp.h"
+	"gl_canvas2d.h"
+
+1712625221 c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\img.h
+	<vector>
+	"bmp.h"
+	"graphManager.h"
+	"iconManager.h"
+	"gl_canvas2d.h"
+
+1712625101 c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\imgmanager.h
+	<vector>
+	"img.h"
+	"gl_canvas2d.h"
+
+1712624887 c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\botaomanager.h
+	"gl_canvas2d.h"
+	<vector>
+	<functional>
+	"Botao.h"
+	"imgManager.h"
+
+1712624957 c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\graph.h
+	"gl_canvas2d.h"
+	"img.h"
+	<math.h>
+	<vector>
+	<iostream>
+
+1712624988 c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\graphmanager.h
+	"gl_canvas2d.h"
+	<vector>
+	"graph.h"
+
+1711568072 source:c:\users\weber\desktop\programação\c\cg\demos\1_canvasglut\src\bmp.cpp
+	"Bmp.h"
+	<string.h>
+
+1531759698 c:\users\weber\desktop\programação\c\cg\demos\1_canvasglut\src\bmp.h
+	<stdio.h>
+	<stdlib.h>
+
+1711476572 source:c:\users\weber\desktop\programação\c\cg\demos\1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1710341387 c:\users\weber\desktop\programação\c\cg\demos\1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	"Vector2.h"
+
+1632060799 c:\users\weber\desktop\programação\c\cg\demos\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 c:\users\weber\desktop\programação\c\cg\demos\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1632060794 c:\users\weber\desktop\programação\c\cg\demos\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1589217858 c:\users\weber\desktop\programação\c\cg\demos\1_canvasglut\src\vector2.h
+
+1711570065 source:c:\users\weber\desktop\programação\c\cg\demos\1_canvasglut\src\img.cpp
+	"img.h"
+	"bmp.h"
+	"gl_canvas2d.h"
+
+1712528869 c:\users\weber\desktop\programação\c\cg\demos\1_canvasglut\src\img.h
+	<vector>
+	"bmp.h"
+	"graphManager.h"
+	"gl_canvas2d.h"
+
+1712528646 c:\users\weber\desktop\programação\c\cg\demos\1_canvasglut\src\graphmanager.h
+	"gl_canvas2d.h"
+	<vector>
+	"graph.h"
+
+1712504065 c:\users\weber\desktop\programação\c\cg\demos\1_canvasglut\src\graph.h
+	"gl_canvas2d.h"
+	"img.h"
+	<math.h>
+	<vector>
+	<iostream>
+
+1712516197 source:c:\users\weber\desktop\programação\c\cg\demos\1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<iostream>
+	<fstream>
+	<string>
+	"gl_canvas2d.h"
+	"imgManager.h"
+	"BotaoManager.h"
+
+1712264976 c:\users\weber\desktop\programação\c\cg\demos\1_canvasglut\src\imgmanager.h
+	<vector>
+	"img.h"
+	"gl_canvas2d.h"
+
+1712264976 c:\users\weber\desktop\programação\c\cg\demos\1_canvasglut\src\botaomanager.h
+	"gl_canvas2d.h"
+	<vector>
+	<functional>
+	"Botao.h"
+	"imgManager.h"
+
+1712263219 c:\users\weber\desktop\programação\c\cg\demos\1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+	"img.h"
+	<functional>
+
+1589218349 source:c:\users\weber\desktop\programação\c\cg\demos\1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1193164156 c:\users\weber\desktop\programação\c\cg\demos\1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1712625156 c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\iconmanager.h
+	<vector>
+	"icon.h"
+	"gl_canvas2d.h"
+
+1712625139 c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\icon.h
+	"bmp.h"
+	"gl_canvas2d.h"
+
+1712624504 c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\slidebar.h
+	<math.h>
+	"gl_canvas2d.h"
+
+1712624390 c:\users\loren\desktop\programação\c\demos\1_canvasglut\src\slidebarmanager.h
+	<vector>
+	"slideBar.h"
+

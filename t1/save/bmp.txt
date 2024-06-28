@@ -1,0 +1,3 @@
+.\1_canvasGlut\images\normal_1.bmp
+.\1_canvasGlut\images\img1.bmp
+.\1_canvasGlut\images\img2.bmp
